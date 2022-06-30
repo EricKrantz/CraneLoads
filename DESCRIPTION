@@ -11,3 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Imports: Rcpp (>= 1.0.8.3)
 LinkingTo: Rcpp
+URL: https://github.com/EricKrantz/CraneLoads
+BugReports: https://github.com/EricKrantz/CraneLoads/issues
